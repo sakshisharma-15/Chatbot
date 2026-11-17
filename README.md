@@ -1,12 +1,12 @@
 AI Chatbot – Gemini Powered Assistant
 
-📌 About the Project
+## About the Project
 
 This project is an AI-powered chatbot developed using Python, Streamlit, and Google Gemini API. It provides an interactive platform where users can ask questions, have conversations, and get AI-generated responses.
 
 The chatbot can also recognize specific commands and perform simple tasks, such as opening websites like YouTube, Google, and Spotify.
 
-✨ Features
+ ## Features
 
 AI-Powered Conversations: Generates intelligent responses using Google Gemini.
 
@@ -22,7 +22,7 @@ Chat History: Maintains conversation messages during the active Streamlit sessio
 
 Error Handling: Displays an error message if the Gemini API connection fails.
 
-🛠️ Technologies Used
+## Technologies Used
 
 Python – Core programming language.
 
@@ -36,7 +36,7 @@ OS Module – For accessing environment variables.
 
 Webbrowser Module – For opening websites through commands.
 
-📂 Project Structure
+ ## Project Structure
 
 AI-assistant/
 │
@@ -46,7 +46,7 @@ AI-assistant/
 └── README.md
 
 
-Installation and Setup
+## Installation and Setup
 
 cd AI-assistant
 pip install streamlit google-genai
